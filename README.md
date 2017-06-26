@@ -1,6 +1,6 @@
 Vueing-Weather
 =============
-## Weather app built with vue and node ##
+###### Weather app built with vue and node
 
 #### Dev Installation Instructions ####
 ```
