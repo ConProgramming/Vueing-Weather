@@ -4,6 +4,8 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 require('../node_modules/bootstrap/less/bootstrap.less')
+require('vue-strap/dist/vue-strap.js')
+
 
 Vue.config.productionTip = false
 

@@ -3,6 +3,8 @@ node_modules/
 dist/
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-.c9
+yarn-error.log* 
+
+#Ignore all .c9 specific files<br>
+/.c9/
 
