@@ -1,3 +1,3 @@
-A Basic Weather App I Built With Vue
-Download it 
+Weather App built with vue and node.
+
 
