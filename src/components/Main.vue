@@ -135,7 +135,7 @@
         methods: {
             pulljson: function(zip,countr){
               var self = this;
-              axios.get('http://api.openweathermap.org/data/2.5/weather?zip=' + zip + ',' + countr + '&units=imperial&APPID=' + 'b3d1cfc18dcb064324b872921e0c91fc')
+              axios.get('http://api.openweathermap.org/data/2.5/weather?zip=' + zip + ',' + countr + '&units=imperial&APPID=' + 'YOURAPPIDHERE')
                 .then(function(response){
                   self.weather.location = response.data.name;
                   self.weather.temp = Math.round(response.data.main.temp);
